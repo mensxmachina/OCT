@@ -1,4 +1,4 @@
-function[SHD, SIDu, SIDl, AP, AR]=computeMetrics (trueMec, trueG, allMecG, causalGraph, computeSid)
+function [SHD, SIDu, SIDl, AP, AR]=computeMetrics (trueMec, trueG, allMecG, causalGraph, computeSid)
 
     %SHD, SID, AP, AR
     Nconfigs=length(allMecG);
