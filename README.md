@@ -86,7 +86,7 @@ We use the [SID](https://CRAN.R-project.org/package=SID) package
 
 We use the [tetrad project](https://github.com/cmu-phil/tetrad) for the simulation of mixed data, causal discovery algorithms (except MMHC, M3HC), BIC, AIC, CG, and DG scores.\
 For more information read also : http://cmu-phil.github.io/tetrad/manual/ \
-Please download the jar file "tetrad-gui-6.8.1-launch.jar" from https://cloud.ccd.pitt.edu/nexus/content/repositories/releases/edu/cmu/tetrad-gui/6.8.1/  and add it in the tetradJar folder.
+Please download the jar file "tetrad-gui-6.8.1-launch.jar" and add it in the tetradJar folder.
 
 SCORE=2L-penDiscount*ln(n)*k
 - if penDiscount=1 : BIC
